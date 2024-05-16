@@ -1,0 +1,52 @@
+14.05.24
+
+DHCP
+DNS
+Impressora
+Arquivo
+IIS
+AD
+
+
+V = Requerido
+F = Não Requerido
+
+Admistrativo = DHCP(V), DNS(V), Impressora(V), Arquivo(V), IIS(V), AD(V)
+
+Ferramenteiros = DHCP(F), DNS(F), Impressora(F), Arquivo(F), IIS(F), AD(F)
+
+Forneiros metalúrgicos = DHCP(F), DNS(F), Impressora(F), Arquivo(F), IIS(F), AD(F)
+
+Operadores de máquinas de conformação de metais = DHCP(F), DNS(F), Impressora(F), Arquivo(F), IIS(F), AD(F)
+
+Operadores de instalações de sinterização = DHCP(F), DNS(F), Impressora(F), Arquivo(F), IIS(F), AD(F)
+
+Operadores de fornos de primeira fusão e aciaria = DHCP(F), DNS(F), Impressora(F), Arquivo(F), IIS(F), AD(F)
+
+Operadores de equipamentos de laminação = DHCP(F), DNS(F), Impressora(F), Arquivo(F), IIS(F), AD(F)
+
+Operadores de equipamentos de acabamento de chapas e metais = DHCP(F), DNS(F), Impressora(F), Arquivo(F), IIS(F), AD(F)
+
+Técnicos de laboratório industrial = DHCP(V), DNS(V), Impressora(F), Arquivo(V), IIS(V), AD(V)
+
+Técnicos de controle da produção = DHCP(V), DNS(V), Impressora(F), Arquivo(V), IIS(V), AD(V)
+
+Trabalhadores de forjamento de metais = DHCP(F), DNS(F), Impressora(F), Arquivo(F), IIS(F), AD(F)
+
+Trabalhadores de fundição = DHCP(F), DNS(F), Impressora(F), Arquivo(F), IIS(F), AD(F)
+
+Trabalhadores de moldagem = DHCP(F), DNS(F), Impressora(F), Arquivo(F), IIS(F), AD(F)
+
+Trabalhadores de trefilação e estiramento de metais = DHCP(F), DNS(F), Impressora(F), Arquivo(F), IIS(F), AD(F)
+
+Trabalhadores de tratamento térmico de metais = DHCP(F), DNS(F), Impressora(F), Arquivo(F), IIS(F), AD(F)
+
+Trabalhadores de tratamento de superfícies de metais = DHCP(F), DNS(F), Impressora(F), Arquivo(F), IIS(F), AD(F)
+
+Trabalhadores de soldagem e corte de ligas metálicas = DHCP(F), DNS(F), Impressora(F), Arquivo(F), IIS(F), AD(F)
+
+Trabalhadores de caldeiraria e serralheria = DHCP(F), DNS(F), Impressora(F), Arquivo(F), IIS(F), AD(F)
+
+Supervisores de produção em indústrias siderúrgicas = DHCP(V), DNS(V), Impressora(F), Arquivo(V), IIS(F), AD(V)
+
+Supervisores de usinagem, conformação e tratamento de metais = DHCP(V), DNS(V), Impressora(F), Arquivo(V), IIS(V), AD(V)
